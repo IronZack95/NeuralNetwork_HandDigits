@@ -1,7 +1,7 @@
 # NeuralNetwork_HandDigits
 Matlab Neural Network on MNST Database
 
-<video controls src="Neural Network handwritten digits.mp4" title="Title"></video>
+https://github.com/IronZack95/NeuralNetwork_HandDigits/blob/master/Neural%20Network%20handwritten%20digits.mp4
 
 ## ISTRUZIONI:
 Per eseguire il codice
